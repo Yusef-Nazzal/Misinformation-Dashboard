@@ -1,9 +1,9 @@
 from mastodon import Mastodon
 
 instance_url = 'https://mastodon.social'
-client_id = 'H7NhHfUi-jnAIy0DW_2aUR0Yu65LH3D7eqhsnQmAGog'
-client_secret = 'XyKu4up2nZnR65ZemcLQgZ2dgh0s7B_yYCtsziAF7tQ'
-access_token = 'TPHK86OOqhMKrnjwdkpHeTRk39zoqrWsKUW5OufuCc8'
+client_id = ## INPUT CREDENTIALS HERE FOR API
+client_secret = 
+access_token = 
 
 mastodon = Mastodon(
     client_id=client_id,
